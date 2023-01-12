@@ -142,7 +142,7 @@ export default {
         },
         {
             id: 3,
-            title: "Your most unhappy customers are your greatest source of learning",
+            title: "CR7 back in saudi club",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
             category: "Business, Travel",
             img : "/images/articles/posts/3.jpg",
@@ -169,7 +169,7 @@ export default {
         },
         {
             id: 4,
-            title: "Your most unhappy customers are your greatest source of learning",
+            title: "IronMan back in MCU",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
             category: "Business, Travel",
             img : "/images/articles/posts/4.jpg",
@@ -196,7 +196,7 @@ export default {
         },
         {
             id: 5,
-            title: "Your most unhappy customers are your greatest source of learning",
+            title: "SRK new Movie 'Pathan'",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
             category: "Business, Travel",
             img : "/images/articles/posts/5.jpg",
@@ -223,7 +223,7 @@ export default {
         },
         {
             id: 6,
-            title: "Your most unhappy customers are your greatest source of learning",
+            title: "MESSI GOAT of all time",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
             category: "Business, Travel",
             img : "/images/articles/posts/2.jpg",
@@ -252,13 +252,12 @@ export default {
     Popular : [
         {
             id: 1,
-            title: "Your most unhappy customers are your greatest source of learning",
-            subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
-            img : "/images/articles/1.jpg",
+            title: " James Gunn Denies Gal Gadot was “Booted” From DC Movies ",
+            subtitle: "dc movies",
+            category: "Movies, Travel",
+            img : "/images/articles/posts/1.jpg",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
-            far World of Grammar.
+            It’s never easy to be the head of a studio division––your every decision is scrutinized at a microscopic level, and you’re often held responsible if your movies tank. And if you’re already a recognizable person already in popular cultural, such as James Gunn, that is magnified even more.
             `,
             published: "Jun 3,  2022",
             author: {
@@ -269,13 +268,13 @@ export default {
         },
         {
             id: 2,
-            title: "Your most unhappy customers are your greatest source of learning",
+            title: "MESSI GOAT of all time",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
             category: "Business, Travel",
-            img : "/images/articles/2.jpg",
+            img : "/images/articles/posts/2.jpg",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
-            far World of Grammar.
+            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
+            text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
             `,
             published: "Jun 5,  2022",
             author: {
@@ -286,13 +285,13 @@ export default {
         },
         {
             id: 3,
-            title: "Your most unhappy customers are your greatest source of learning",
+            title: "CR7 back in saudi club",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
             category: "Business, Travel",
-            img : "/images/articles/3.jpg",
+            img : "/images/articles/posts/3.jpg",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
-            far World of Grammar.
+            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
+            text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
             `,
             published: "Jun 7,  2022",
             author: {
@@ -303,13 +302,13 @@ export default {
         },
         {
             id: 4,
-            title: "Your most unhappy customers are your greatest source of learning",
+            title: "IronMan back in MCU",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
             category: "Business, Travel",
-            img : "/images/articles/4.jpg",
+            img : "/images/articles/posts/4.jpg",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
-            far World of Grammar.
+            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
+            text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
             `,
             published: "Jun 10,  2022",
             author: {
@@ -320,13 +319,13 @@ export default {
         },
         {
             id: 5,
-            title: "Your most unhappy customers are your greatest source of learning",
+            title: "SRK new Movie 'Pathan'",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
             category: "Business, Travel",
-            img : "/images/articles/5.jpg",
+            img : "/images/articles/posts/5.jpg",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
-            far World of Grammar.
+            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
+            text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
             `,
             published: "Jun 14,  2022",
             author: {

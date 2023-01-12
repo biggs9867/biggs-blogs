@@ -50,7 +50,7 @@ function Post({data}){
         <div className="grid">
             <div className="images">
 
-                <Link href={`/posts/${id}`}> <Image src={img || "/"} width={350} height={450} /></Link>
+                <Link href={`/posts/${id}`}> <Image src={img || "/"} width={350} height={450} alt=""/></Link>
             </div>
             <div className="info flex justify-center flex-col py-4">
                 <div className="cat">
